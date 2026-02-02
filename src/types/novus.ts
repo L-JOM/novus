@@ -10,6 +10,7 @@ export interface Request {
   status: RequestStatus;
   timestamp: Date;
   summary?: string;
+  intakeResponses?: { question: string; answer: string }[];
 }
 
 export interface SystemEvent {
