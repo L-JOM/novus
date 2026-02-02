@@ -1,8 +1,9 @@
 {
+  "/": "pages/index.html",
+  "/404": "pages/404.html",
   "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/manager/intake": "pages/manager/intake.js",
-  "/404": "pages/404.js"
+  "/_error": "pages/_error.js",
+  "/intake": "pages/intake.html",
+  "/manager/intake": "pages/manager/intake.html"
 }
